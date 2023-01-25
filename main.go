@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"projectSOLOMON/assistant"
 	"projectSOLOMON/cerebrum"
 	"projectSOLOMON/ears"
 	"projectSOLOMON/librarian"
@@ -11,16 +12,17 @@ import (
 func main() {
 	fmt.Println("Main Fucntion Start")
 
-	processInput()
+	processRespond()
 
 	fmt.Println("Main Fucntion End")
 }
 
-func processInput() {
+func processRespond() {
 	fmt.Println("Process Input Fucntion Start")
 
 	ears.Listen()
 	cerebrum.Cerebrate()
+	assistant.Help()
 	librarian.Scower()
 	tongue.Speak()
 
