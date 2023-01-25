@@ -1,4 +1,4 @@
-# Project SOLOMON v0.0.1 (Production Ongoing)
+# Project SOLOMON v0.0.1 (Pre-Prototype - Production Ongoing)
 
 S.O.L.O.M.O.N. = Support Oriented Logistical Operation Matrix Organized Natively
 
