@@ -1,15 +1,11 @@
-package libarian
+package librarian
 
 import (
 	"fmt"
 )
 
-func main() {
+func Scower() {
 	fmt.Println("Libarian Fucntion Start")
 
 	fmt.Println("Libarian Fucntion End")
-}
-
-func scower() {
-
 }

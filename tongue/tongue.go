@@ -4,12 +4,8 @@ import (
 	"fmt"
 )
 
-func main() {
+func Speak() {
 	fmt.Println("Tongue Fucntion Start")
 
 	fmt.Println("Tongue Fucntion End")
-}
-
-func speak() {
-
 }

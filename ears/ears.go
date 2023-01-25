@@ -4,12 +4,8 @@ import (
 	"fmt"
 )
 
-func main() {
+func Listen() {
 	fmt.Println("Ear Fucntion Start")
 
 	fmt.Println("Ear Fucntion End")
-}
-
-func listen() {
-
 }
