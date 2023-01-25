@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("\nMain Fucntion Start\n")
+	fmt.Println("Main Fucntion Start")
 
-	fmt.Println("\nMain Fucntion End\n")
+	fmt.Println("Main Fucntion End")
 }
