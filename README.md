@@ -12,4 +12,4 @@ Current Blueprint includes 3 Packages & Intentions:
 
     Tongue - Deliver Output (Text to Speech)
 
-4th Package included in Repo is Assistant, at this time it is currently a placeholder for possible taskers given by end user.
+4th Package included in Repo is Skills, at this time it is currently a placeholder for possible exicutible Skills.
