@@ -18,7 +18,7 @@ func main() {
 }
 
 func processRespond() {
-	fmt.Println("Process Input Fucntion Start")
+	fmt.Println("Process-Respond Fucntion Start")
 
 	ears.Listen()
 	cerebrum.Cerebrate()
@@ -26,5 +26,5 @@ func processRespond() {
 	librarian.Scower()
 	tongue.Speak()
 
-	fmt.Println("Process Input Fucntion Start")
+	fmt.Println("Process-Respond Fucntion End")
 }
