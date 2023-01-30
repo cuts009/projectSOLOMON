@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"projectSOLOMON/assistant"
 	"projectSOLOMON/cerebrum"
 	"projectSOLOMON/ears"
+	"projectSOLOMON/skills"
 	"projectSOLOMON/tongue"
 )
 
@@ -21,7 +21,7 @@ func processRespond() {
 
 	ears.Listen()
 	cerebrum.Cerebrate()
-	assistant.Help()
+	skills.Initiate()
 	tongue.Speak()
 
 	fmt.Println("Process-Respond Fucntion End")
