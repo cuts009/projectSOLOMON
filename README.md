@@ -7,13 +7,16 @@ The intention of this application is to develop a natively stored personal assis
 Current Blueprint includes 4 Packages & Intentions:
 
     Ears - Recieve Input (Speech to Text)
+        EMPTY
 
     Cerebrum - Process Input & Produce Output (NLP)
         ALBERT INTEGRATION PENDING (https://github.com/tensorflow/tensorflow/pull/50934)
 
     Tongue - Deliver Output (Text to Speech)
-    
+        EMPTY
+
     Skills - Package to include Skill modules.
+        EMPTY
 
 External Projects Included:
     
