@@ -15,5 +15,7 @@ Current Blueprint includes 3 Packages & Intentions:
 4th Package included in Repo is Skills, at this time it is currently a placeholder for possible executable Skills.
 
 External Projects Included:
+    
     Project     Copyright     License
+    
     ALBERT      Google        Apache License, v2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)
