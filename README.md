@@ -4,7 +4,7 @@ S.O.L.O.M.O.N. = Support Oriented Linguistic Operation Matrix Organized Natively
 
 The intention of this application is to develop a natively stored personal assistant that is able to interact with the end user and function off of a local network connection without constant internet connection. Ideally leveraging edge based technology using lightweight software/language model to compute written/verbal input and respond or perform basic tasks.
 
-<h2>Current Packages</h2>
+<h2>Internal Packages</h2>
 <table>
      <tr>
           <th>Package</th>
@@ -33,7 +33,7 @@ The intention of this application is to develop a natively stored personal assis
      </tr>
 </table>
 
-<h2>External Projects</h2>
+<h2>External Resources</h2>
 <table>
      <tr>
           <th>Project</th>
