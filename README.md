@@ -22,13 +22,13 @@ The intention of this application is to develop a natively stored personal assis
           <td>EMPTY</td>
      </tr>
      <tr>
-          <td>Tongue</td>
-          <td>Deliver Output (Text to Speech)</td>
+          <td>Skills</td>
+          <td>References Skill Modules</td>
           <td>EMPTY</td>
      </tr>
      <tr>
-          <td>Skills</td>
-          <td>Contains Skill Modules</td>
+          <td>Tongue</td>
+          <td>Deliver Output (Text to Speech)</td>
           <td>EMPTY</td>
      </tr>
 </table>
