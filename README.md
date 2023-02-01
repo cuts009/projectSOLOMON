@@ -1,9 +1,3 @@
-Copyright (C) 2023, Cutter Love
-
-Licensed under the GPL v3.0, you may obtain a copy of this license at
-
-https://www.gnu.org/licenses/gpl-3.0-standalone.html
-
 <h1>Project SOLOMON v0.0 (Pre-Prototype - Production Ongoing)</h1>
 
 S.O.L.O.M.O.N. = Support Oriented Linguistic Operation Matrix Organized Natively
@@ -52,3 +46,10 @@ The intention of this application is to develop a natively stored personal assis
           <td>Apache License, v2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)</td>
      </tr>
 </table>
+
+Copyright (C) 2023, Cutter Love
+
+Licensed under the GPL v3.0, you may obtain a copy of this license at
+
+https://www.gnu.org/licenses/gpl-3.0-standalone.html
+
