@@ -1,3 +1,8 @@
+Copyright (C) 2023, Cutter Love 
+Licensed under the GPL v3. You may obtain a copy of the License at
+
+https://www.gnu.org/licenses/gpl-3.0-standalone.html
+
 <h1>Project SOLOMON v0.0 (Pre-Prototype - Production Ongoing)</h1>
 
 S.O.L.O.M.O.N. = Support Oriented Linguistic Operation Matrix Organized Natively
