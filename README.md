@@ -1,4 +1,4 @@
-Copyright (C) 2023, Cutter Love (cuts009dev@proton.me)
+Copyright (C) 2023, Cutter Love
 
 Licensed under the GPL v3.0, you may obtain a copy of this license at
 
