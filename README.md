@@ -1,15 +1,15 @@
-## Project SOLOMON v0.0 (Pre-Prototype - Production Ongoing)
+### Project SOLOMON v0.0 (Pre-Prototype - Production Ongoing)
 
 S.O.L.O.M.O.N. = Support Oriented Linguistic Operation Matrix Organized Natively
 
 The intention of this application is to develop a natively stored personal assistant that is able to interact with the end user and function off of a local network connection without constant internet connection. Ideally leveraging edge based technology using lightweight software/language model to compute written/verbal input and respond or perform basic tasks.
 
-#Current Blueprint Packages
+<h2>Current Blueprint Packages</h2>
 <table>
      <tr>
-          <td>Package</td>
-          <td>Purpose</td>
-          <td>Notes</td>
+          <th>Package</th>
+          <th>Purpose</th>
+          <th>Notes</th>
      </tr>
      <tr>
           <td>Ears</td>
@@ -33,12 +33,12 @@ The intention of this application is to develop a natively stored personal assis
      </tr>
 </table>
 
-#External Projects
+<h2>External Projects</h2>
 <table>
      <tr>
-          <td>Project</td>
-          <td>Copyright</td>
-          <td>License</td>
+          <th>Project</th>
+          <th>Copyright</th>
+          <th>License</th>
      </tr>
      <tr>
           <td>ALBERT</td>
