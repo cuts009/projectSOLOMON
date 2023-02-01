@@ -42,7 +42,7 @@ The intention of this application is to develop a natively stored personal assis
      </tr>
      <tr>
           <td>ALBERT</td>
-          <td>Google</td>
+          <td>ALBERT Contributers</td>
           <td>Apache License, v2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)</td>
      </tr>
 </table>
