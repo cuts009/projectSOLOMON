@@ -33,6 +33,7 @@ The intention of this application is to develop a natively stored personal assis
                <td>Package to include Skill modules</td>
                <td>EMPTY</td>
           </tr>
+     </table>
      <table>
           <tr>
                <td>#External Projects Included</td>
