@@ -8,7 +8,7 @@ The intention of this application is to develop a natively stored personal assis
 <table>
      <tr>
           <th>Package</th>
-          <th>Description     </th>
+          <th>Description</th>
           <th>Notes</th>
      </tr>
      <tr>
@@ -28,7 +28,7 @@ The intention of this application is to develop a natively stored personal assis
      </tr>
      <tr>
           <td>Skills</td>
-          <td>Package to include Skill modules</td>
+          <td>Contains Skill Modules</td>
           <td>EMPTY</td>
      </tr>
 </table>
