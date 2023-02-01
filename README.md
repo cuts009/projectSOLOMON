@@ -48,7 +48,7 @@ The intention of this application is to develop a natively stored personal assis
      </tr>
      <tr>
           <td>ALBERT (https://github.com/google-research/albert)</td>
-          <td>Google & ALBERT's Contributers</td>
+          <td>Google AI Team Authors</td>
           <td>Apache License, v2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)</td>
      </tr>
 </table>
