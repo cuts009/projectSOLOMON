@@ -23,7 +23,7 @@ The intention of this application is to develop a natively stored personal assis
      </tr>
      <tr>
           <td>Skills</td>
-          <td>References Skill Modules</td>
+          <td>Reference Skill Modules</td>
           <td>EMPTY</td>
      </tr>
      <tr>
