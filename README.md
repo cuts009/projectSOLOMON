@@ -1,4 +1,4 @@
-<h>Project SOLOMON v0.0 (Pre-Prototype - Production Ongoing)</h>
+<h1>Project SOLOMON v0.0 (Pre-Prototype - Production Ongoing)</h1>
 
 S.O.L.O.M.O.N. = Support Oriented Linguistic Operation Matrix Organized Natively
 
