@@ -12,14 +12,14 @@ The intention of this application is to develop a natively stored personal assis
           <th>Notes</th>
      </tr>
      <tr>
-          <td>Ears</td>
-          <td>Recieve Input (Speech to Text)</td>
-          <td>EMPTY</td>
-     </tr>
-     <tr>
           <td>Cerebrum</td>
           <td>Process Input & Produce Output (NLP)</td>
           <td>ALBERT INTEGRATION PENDING (https://github.com/tensorflow/tensorflow/pull/50934)
+     </tr>
+     <tr>
+          <td>Ears</td>
+          <td>Recieve Input (Speech to Text)</td>
+          <td>EMPTY</td>
      </tr>
      <tr>
           <td>Tongue</td>
