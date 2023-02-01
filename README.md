@@ -19,7 +19,16 @@ Current Blueprint includes 4 Packages & Intentions:
         EMPTY
 
 External Projects Included:
+     <table>
+          <tr>
+               <td>Project</td>
+               <td>Copyright</td>
+               <td>License</td>
+          </tr>
+          <tr>
+               <td>ALBERT</td>
+               <td>Google</td>
+               <td>Apache License, v2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)</td>
+          </tr>
+     </table>
     
-    Project     Copyright     License
-    
-    ALBERT      Google        Apache License, v2.0 (https://www.apache.org/licenses/LICENSE-2.0.html)
